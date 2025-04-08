@@ -1,5 +1,5 @@
 {
-  "name": "react-native-scrypt",
+  "name": "@react-native-deps/react-native-scrypt",
   "version": "1.2.1",
   "description": "Native scrypt for React Native",
   "main": "index.js",
