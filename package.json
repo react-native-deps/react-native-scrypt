@@ -1,10 +1,7 @@
 {
-  "name": "@react-native-deps/react-native-scrypt",
+  "name": "react-native-scrypt",
   "version": "1.2.1",
   "description": "Native scrypt for React Native",
-  "imports": {
-    "react-native-scrypt": "@react-native-deps/react-native-scrypt"
-  },
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
